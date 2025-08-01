@@ -4,3 +4,10 @@ opencv-python
 Pillow
 numpy
 streamlit-drawable-canvas
+streamlit
+rembg
+onnxruntime
+opencv-python
+Pillow
+numpy
+streamlit-drawable-canvas
