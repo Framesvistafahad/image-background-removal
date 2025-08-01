@@ -1,0 +1,6 @@
+streamlit
+rembg
+opencv-python
+Pillow
+numpy
+streamlit-drawable-canvas
