@@ -1,13 +1,7 @@
 streamlit
 rembg
-opencv-python
-Pillow
-numpy
-streamlit-drawable-canvas
-streamlit
-rembg
 onnxruntime
-opencv-python
+opencv-python==4.7.0.72
 Pillow
 numpy
 streamlit-drawable-canvas
